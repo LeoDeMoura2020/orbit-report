@@ -1,5 +1,3 @@
-import { runInThisContext } from "vm";
-
 export class Satellite {
     name: string;
     orbitType: string;
